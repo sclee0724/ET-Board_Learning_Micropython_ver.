@@ -15,14 +15,14 @@ from ETboard.lib.pin_define import *
 
 
 # global variable
-trigPin = Pin(D9)           # 초음파 송신부
-echoPin = Pin(D8)           # 초음파 수신부
+trigPin = Pin(D9)                                  # 초음파 송신부
+echoPin = Pin(D8)                                  # 초음파 수신부
 
 
 # setup
 def setup():
-    trigPin.init(Pin.OUT)   # 초음파 송신부 출력 모드 설정하기
-    echoPin.init(Pin.IN)    # 초음파 수신부 입력 모드 설정하기
+    trigPin.init(Pin.OUT)                          # 초음파 송신부 출력 모드 설정하기
+    echoPin.init(Pin.IN)                           # 초음파 수신부 입력 모드 설정하기
 
 
 # main loop

@@ -58,7 +58,7 @@ def setup():
     print("IP address : ")
     print(WiFi.localIP())                      # 연결이 됐다면 할당받은 아이피를 출력함
     
-    server.on("/", handle_root)                 # root(/)로 접속했을 때 처리하는 함수랑 연결
+    server.on("/", handle_root)                # root(/)로 접속했을 때 처리하는 함수랑 연결
     server.on("/red_led_on", handle_d2on)      # red_led_on(/red_led_on)로 접속했을 때 처리하는 함수랑 연결
     server.on("/red_led_off", handle_d2off)    # red_led_off(/red_led_off)로 접속했을 때 처리하는 함수랑 연결
     server.begin()                             # 서버 시작
