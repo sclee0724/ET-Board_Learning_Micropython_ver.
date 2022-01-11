@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 03._temperature_sensor_temp_led
-# * Description  : 온도 센서값을 받고 값을 온도값 마다 다른 LED 켜기
-# * Author       : 이승찬
-# * Created Date : 2021.08.17
-# * Reference    :
-# * Modified     :
+# FileName     : 03._temperature_sensor_temp_led
+# Description  : 온도 센서값을 받고 값을 온도값 마다 다른 LED 켜기
+# Author       : 이승찬
+# Created Date : 2021.08.17
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 

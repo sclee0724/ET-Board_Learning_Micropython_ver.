@@ -1,11 +1,11 @@
 # ******************************************************************************************
-# * FileName     : ultrasonic_buzzer
-# * Description  : 초음파센서와 부저를 사용하여 초음파센서로 물체의 거리를 측정하고
-# *                물체와 거리가 가까워지면 부저를 이용하여 소리로 알림
-# * Author       : 이승찬
-# * Created Date : 2021.08.18
-# * Reference    :
-# * Modified     :
+# FileName     : ultrasonic_buzzer
+# Description  : 초음파센서와 부저를 사용하여 초음파센서로 물체의 거리를 측정하고
+#                물체와 거리가 가까워지면 부저를 이용하여 소리로 알림
+# Author       : 이승찬
+# Created Date : 2021.08.18
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 
@@ -46,11 +46,11 @@ def loop():
     distance = ((17 * duration) / 1000)
     
     # 초음파센서 값을 출력
-    print(distance, " cm ")                        # 거리를 화면에 출력해줌
-    time.sleep_ms(100)                             # 0.1초 대기
+    print(distance, " cm ")                         # 거리를 화면에 출력해줌
+    time.sleep_ms(100)                              # 0.1초 대기
     
     # 초음파센서 값에 따라 부저 제어
-    if distance < 15:                              # 거리가 10cm 미만이면
+    if distance < 15:                               # 거리가 10cm 미만이면
         for i in range(80):
             PinD2.value(HIGH)     
             time.sleep(0.001)        

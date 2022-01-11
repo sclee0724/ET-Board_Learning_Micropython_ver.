@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 02._force_sensitive_resister_led
-# * Description  : 압력센서의 값에 따라 LED를 순차적으로 점등 하는 예제
-# * Author       : 이승찬
-# * Created Date : 2021.08.18
-# * Reference    :
-# * Modified     :
+# FileName     : 02._force_sensitive_resister_led
+# Description  : 압력센서의 값에 따라 LED를 순차적으로 점등 하는 예제
+# Author       : 이승찬
+# Created Date : 2021.08.18
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 

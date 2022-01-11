@@ -1,11 +1,11 @@
 # ******************************************************************************************
-# * FileName     : 02._photoresistor_sensoer_led
-# * Description  : 조도센서 값에 따라 순차적으로 LED 가 켜짐
-# *                빨강 - 파랑 - 초록 - 노랑 순서
-# * Author       : 이승찬
-# * Created Date : 2021.08.13
-# * Reference    :
-# * Modified     :
+# FileName     : 02._photoresistor_sensoer_led
+# Description  : 조도센서 값에 따라 순차적으로 LED 가 켜짐
+#                빨강 - 파랑 - 초록 - 노랑 순서
+# Author       : 이승찬
+# Created Date : 2021.08.13
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 

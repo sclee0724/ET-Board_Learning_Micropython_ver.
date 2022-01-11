@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 01._WiFi_IPAddress_print
-# * Description  : WiFi에 연결하고 받은 IP주소를 출력하는 예제
-# * Author       : 위대원
-# * Created Date : 2021.08.24
-# * Reference    :
-# * modified     :
+# FileName     : 01._WiFi_IPAddress_print
+# Description  : WiFi에 연결하고 받은 IP주소를 출력하는 예제
+# Author       : 위대원
+# Created Date : 2021.08.24
+# Reference    :
+# modified     :
 # ******************************************************************************************
 
 

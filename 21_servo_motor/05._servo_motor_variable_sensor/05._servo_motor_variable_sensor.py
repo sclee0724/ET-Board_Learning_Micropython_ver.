@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 05._servo_motor_variable_sensor
-# * Description  : 가변저항을 돌리면 서보모터가 돌아가는 예제
-# * Author       : 이승찬
-# * Created Date : 2021.08.20
-# * Reference    :
-# * Modified     :
+# FileName     : 05._servo_motor_variable_sensor
+# Description  : 가변저항을 돌리면 서보모터가 돌아가는 예제
+# Author       : 이승찬
+# Created Date : 2021.08.20
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 

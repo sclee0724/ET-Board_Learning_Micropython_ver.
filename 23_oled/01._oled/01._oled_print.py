@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 01._oled_print
-# * Description  : oled 모듈에 "HelloWorld" 출력 하는 예제
-# * Author       : 이인정
-# * Created Date : 2021.05.31
-# * Reference    :
-# * Modified     : 2021.06.01 : LIJ : 헤더수정
+# FileName     : 01._oled_print
+# Description  : oled 모듈에 "HelloWorld" 출력 하는 예제
+# Author       : 이인정
+# Created Date : 2021.05.31
+# Reference    :
+# Modified     : 2021.06.01 : LIJ : 헤더수정
 # ******************************************************************************************
 
 

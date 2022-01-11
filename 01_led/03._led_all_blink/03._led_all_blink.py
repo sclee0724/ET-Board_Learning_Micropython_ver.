@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 03._led_all_blink
-# * Description  : 모든 LED가 켜졌다 꺼졌다 반복
-# * Author       : 이승찬
-# * Created Date : 2021.08.19
-# * Reference    :
-# * Modified     :
+# FileName     : 03._led_all_blink
+# Description  : 모든 LED가 켜졌다 꺼졌다 반복
+# Author       : 이승찬
+# Created Date : 2021.08.19
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 

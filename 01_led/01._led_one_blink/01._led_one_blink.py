@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 01._led_one_blink
-# * Description  : 빨강 LED 가 켜졌다 꺼졌다 반복
-# * Author       : 이승찬
-# * Created Date : 2021.08.19
-# * Reference    :
-# * Modified     :
+# FileName     : 01._led_one_blink
+# Description  : 빨강 LED 가 켜졌다 꺼졌다 반복
+# Author       : 이승찬
+# Created Date : 2021.08.19
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 

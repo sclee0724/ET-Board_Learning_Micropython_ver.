@@ -1,11 +1,11 @@
 # ******************************************************************************************
-# * FileName     : 03._variable_resistance_sensor_led_fade
-# * Description  : 가변저항 값에 따라 빨강 LED 의 밝기가 달라짐
-# *                가변저항 값을 쉘에 출력
-# * Author       : 이승찬
-# * Created Date : 2021.08.13
-# * Reference    :
-# * Modified     :
+# FileName     : 03._variable_resistance_sensor_led_fade
+# Description  : 가변저항 값에 따라 빨강 LED 의 밝기가 달라짐
+#                가변저항 값을 쉘에 출력
+# Author       : 이승찬
+# Created Date : 2021.08.13
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 

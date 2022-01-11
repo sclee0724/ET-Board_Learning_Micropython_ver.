@@ -1,11 +1,11 @@
 # ******************************************************************************************
-# * FileName     : 03._photoresistor_sensor_led_fade
-# * Description  : 조도센서 값에 따라 빨강 LED의 밝기가 달라짐
-# *                조도센서 값 쉘에 출력
-# * Author       : 이승찬
-# * Created Date : 2021.08.13
-# * Reference    :
-# * Modified     :
+# FileName     : 03._photoresistor_sensor_led_fade
+# Description  : 조도센서 값에 따라 빨강 LED의 밝기가 달라짐
+#                조도센서 값 쉘에 출력
+# Author       : 이승찬
+# Created Date : 2021.08.13
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 

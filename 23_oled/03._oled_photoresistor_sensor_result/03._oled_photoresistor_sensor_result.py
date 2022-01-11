@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 03._oled_photoresistor_sensor_result
-# * Description  : 조도센서의 값을 읽어서 낮인지 밤인지 판별하는 예제
-# * Author       : 이승찬
-# * Created Date : 2021.08.18
-# * Reference    :
-# * Modified     :
+# FileName     : 03._oled_photoresistor_sensor_result
+# Description  : 조도센서의 값을 읽어서 낮인지 밤인지 판별하는 예제
+# Author       : 이승찬
+# Created Date : 2021.08.18
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 

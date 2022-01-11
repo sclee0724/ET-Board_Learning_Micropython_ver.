@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 02._variable_resistance_sensor_led
-# * Description  : 가변저항 값에 따라 LED 가 순차적으로 켜짐(빨강-파랑-노랑-초록)
-# * Author       : 이인정
-# * Created Date : 2021.05.31
-# * Reference    :
-# * Modified     : 2021.06.01 : LIJ : 헤더수정
+# FileName     : 02._variable_resistance_sensor_led
+# Description  : 가변저항 값에 따라 LED 가 순차적으로 켜짐(빨강-파랑-노랑-초록)
+# Author       : 이인정
+# Created Date : 2021.05.31
+# Reference    :
+# Modified     : 2021.06.01 : LIJ : 헤더수정
 # ******************************************************************************************
 
 

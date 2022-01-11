@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 02._touch_sensor_led
-# * Description  : 터치센서에 터치가 되면 LED를 켜는 예제
-# * Author       : 이승찬
-# * Created Date : 2021.08.18
-# * Reference    :
-# * Modified     :
+# FileName     : 02._touch_sensor_led
+# Description  : 터치센서에 터치가 되면 LED를 켜는 예제
+# Author       : 이승찬
+# Created Date : 2021.08.18
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 

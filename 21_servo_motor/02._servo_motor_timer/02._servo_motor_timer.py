@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 02._servo_motor_timer
-# * Description  : 서보모터가 일정 시간 마다 up, down 하는 예제
-# * Author       : 이승찬
-# * Created Date : 2021.08.20
-# * Reference    :
-# * Modified     :
+# FileName     : 02._servo_motor_timer
+# Description  : 서보모터가 일정 시간 마다 up, down 하는 예제
+# Author       : 이승찬
+# Created Date : 2021.08.20
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 

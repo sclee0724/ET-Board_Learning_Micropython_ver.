@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 01._force_sensitive_resister
-# * Description  : 압력센서의 값을 쉘에 출력하는 예제
-# * Author       : 이승찬
-# * Created Date : 2021.08.18
-# * Reference    :
-# * Modified     :
+# FileName     : 01._force_sensitive_resister
+# Description  : 압력센서의 값을 쉘에 출력하는 예제
+# Author       : 이승찬
+# Created Date : 2021.08.18
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 

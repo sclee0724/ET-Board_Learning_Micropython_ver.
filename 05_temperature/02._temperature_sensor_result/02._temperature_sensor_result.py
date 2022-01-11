@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 02._temperature_sensor_result
-# * Description  : 온도 센서값을 받고 값을 온도로 변환해서 쉘에 출력
-# * Author       : 이승찬
-# * Created Date : 2021.08.17
-# * Reference    :
-# * Modified     :
+# FileName     : 02._temperature_sensor_result
+# Description  : 온도 센서값을 받고 값을 온도로 변환해서 쉘에 출력
+# Author       : 이승찬
+# Created Date : 2021.08.17
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 

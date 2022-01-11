@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 01._button_one_status
-# * Description  : 빨강 버튼 상태를 쉘에 출력 하는 예제
-# * Author       : 이승찬
-# * Created Date : 2021.08.19
-# * Reference    :
-# * Modified     :
+# FileName     : 01._button_one_status
+# Description  : 빨강 버튼 상태를 쉘에 출력 하는 예제
+# Author       : 이승찬
+# Created Date : 2021.08.19
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 

@@ -1,11 +1,11 @@
 # ******************************************************************************************
-# * FileName     : 02._ultrasonic_sensor_led
-# * Description  : 초음파 센서를 이용하여 거리에따라 LED 를 점등하는 예제
-# *                (20cm 이상 초록색, 10cm 이상 20cm 미만 노랑색, 10cm 미만 빨강색)
-# * Author       : 이승찬
-# * Created Date : 2021.08.18
-# * Reference    :
-# * Modified     :
+# FileName     : 02._ultrasonic_sensor_led
+# Description  : 초음파 센서를 이용하여 거리에따라 LED 를 점등하는 예제
+#                (20cm 이상 초록색, 10cm 이상 20cm 미만 노랑색, 10cm 미만 빨강색)
+# Author       : 이승찬
+# Created Date : 2021.08.18
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 
@@ -26,12 +26,12 @@ Pin5 = Pin(D5)
 
 # setup
 def setup():
-    trigPin.init(Pin.OUT)   # 초음파 송신부 출력 모드 설정하기
-    echoPin.init(Pin.IN)    # 초음파 수신부 입력 모드 설정하기
+    trigPin.init(Pin.OUT)                           # 초음파 송신부 출력 모드 설정하기
+    echoPin.init(Pin.IN)                            # 초음파 수신부 입력 모드 설정하기
 
-    PinD2.init(Pin.OUT)     # 빨강 LED 출력 모드 설정하기
-    PinD4.init(Pin.OUT)     # 초록 LED 출력 모드 설정하기
-    PinD5.init(Pin.OUT)     # 노랑 LED 출력 모드 설정하기
+    PinD2.init(Pin.OUT)                             # 빨강 LED 출력 모드 설정하기
+    PinD4.init(Pin.OUT)                             # 초록 LED 출력 모드 설정하기
+    PinD5.init(Pin.OUT)                             # 노랑 LED 출력 모드 설정하기
 
 
 # main loop

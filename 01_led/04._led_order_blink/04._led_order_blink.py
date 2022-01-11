@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 04._led_order_blink
-# * Description  : LED 4개를 순차적으로 on 시킴
-# * Author       : 이승찬
-# * Created Date : 2021.08.19
-# * Reference    :
-# * Modified     :
+# FileName     : 04._led_order_blink
+# Description  : LED 4개를 순차적으로 on 시킴
+# Author       : 이승찬
+# Created Date : 2021.08.19
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 

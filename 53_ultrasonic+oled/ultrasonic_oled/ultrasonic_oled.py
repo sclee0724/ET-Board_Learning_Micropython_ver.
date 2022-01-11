@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : ultrasonic_oled
-# * Description  : 초음파센서로 거리를 측정하고 거리에 따라 OLED에 문자열 출력하는 예제
-# * Author       : 이승찬
-# * Created Date : 2021.08.18
-# * Reference    :
-# * Modified     :
+# FileName     : ultrasonic_oled
+# Description  : 초음파센서로 거리를 측정하고 거리에 따라 OLED에 문자열 출력하는 예제
+# Author       : 이승찬
+# Created Date : 2021.08.18
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 

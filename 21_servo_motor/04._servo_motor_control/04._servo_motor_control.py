@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 04._servo_motor_control
-# * Description  : 버튼을 이용해서 서보모터를 제어하는 예제
-# * Author       : 이승찬
-# * Created Date : 2021.08.20
-# * Reference    :
-# * Modified     :
+# FileName     : 04._servo_motor_control
+# Description  : 버튼을 이용해서 서보모터를 제어하는 예제
+# Author       : 이승찬
+# Created Date : 2021.08.20
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 

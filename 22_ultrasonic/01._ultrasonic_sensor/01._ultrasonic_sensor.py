@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 01._ultrasonic_sensor
-# * Description  : 초음파센서를 사용하는 기본적인 예제
-# * Author       : 이승찬
-# * Created Date : 2021.08.18
-# * Reference    :
-# * Modified     :
+# FileName     : 01._ultrasonic_sensor
+# Description  : 초음파센서를 사용하는 기본적인 예제
+# Author       : 이승찬
+# Created Date : 2021.08.18
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 

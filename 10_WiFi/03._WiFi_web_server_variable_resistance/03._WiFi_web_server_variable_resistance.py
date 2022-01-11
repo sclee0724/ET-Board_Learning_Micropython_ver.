@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 03._WiFi_web_server_variable_resistance
-# * Description  : 웹서버에서 가변저항의 값을 볼 수 있는 예제
-# * Author       : 위대원
-# * Created Date : 2021.08.24
-# * Reference    :
-# * modified     :
+# FileName     : 03._WiFi_web_server_variable_resistance
+# Description  : 웹서버에서 가변저항의 값을 볼 수 있는 예제
+# Author       : 위대원
+# Created Date : 2021.08.24
+# Reference    :
+# modified     :
 # ******************************************************************************************
 
 

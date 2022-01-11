@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 02._WiFi_simple_web_server
-# * Description  : 간단한 문자열을 보여주는 서버의 예제
-# * Author       : 위대원
-# * Created Date : 2021.08.24
-# * Reference    :
-# * modified     :
+# FileName     : 02._WiFi_simple_web_server
+# Description  : 간단한 문자열을 보여주는 서버의 예제
+# Author       : 위대원
+# Created Date : 2021.08.24
+# Reference    :
+# modified     :
 # ******************************************************************************************
 
 

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31dcac9b-17fe-4d81-aab3-8307dee51d19" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/01_led/01._led_one_blink/01._led_one_blink.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_led/01._led_one_blink/01._led_one_blink.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_led/02._led_two_blink/02._led_two_blink.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_led/02._led_two_blink/02._led_two_blink.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_led/03._led_all_blink/03._led_all_blink.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_led/03._led_all_blink/03._led_all_blink.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_led/04._led_order_blink/04._led_order_blink.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_led/04._led_order_blink/04._led_order_blink.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_button/01._button_one_status/01._button_one_status.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_button/01._button_one_status/01._button_one_status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_button/02._button_two_status/02._button_two_status.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_button/02._button_two_status/02._button_two_status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_button/03._button_all_status/03._button_all_status.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_button/03._button_all_status/03._button_all_status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_button/04._button_led_control/04._led_button_control.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_button/04._button_led_control/04._led_button_control.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_variable_resistance/01._variable_resistance_sensor/01._variable_resistance_sensor.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_variable_resistance/01._variable_resistance_sensor/01._variable_resistance_sensor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_variable_resistance/02._variable_resistance_sensor_led/02._variable_resistance_sensor_led.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_variable_resistance/02._variable_resistance_sensor_led/02._variable_resistance_sensor_led.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_variable_resistance/03._variable_resistance_sensor_led_fade/03._variable_resistance_sensor_led_fade.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_variable_resistance/03._variable_resistance_sensor_led_fade/03._variable_resistance_sensor_led_fade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_photoresistor/01._photoresistor_sensor/01._photoresistor_sensoer.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_photoresistor/01._photoresistor_sensor/01._photoresistor_sensoer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_photoresistor/02._photoresistor_sensor_led/02._photoresistor_sensoer_led.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_photoresistor/02._photoresistor_sensor_led/02._photoresistor_sensoer_led.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_photoresistor/03._photoresistor_sensor_led_fade/03._photoresistor_sensor_led_fade.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_photoresistor/03._photoresistor_sensor_led_fade/03._photoresistor_sensor_led_fade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_temperature/01._temperature_sensor/01._temperature_sensor.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_temperature/01._temperature_sensor/01._temperature_sensor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_temperature/02._temperature_sensor_result/02._temperature_sensor_result.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_temperature/02._temperature_sensor_result/02._temperature_sensor_result.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_temperature/03._temperature_sensor_temp_led/03._temperature_sensor_temp_led.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_temperature/03._temperature_sensor_temp_led/03._temperature_sensor_temp_led.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_WiFi/01._WiFi_IPAddress_print/01._WiFi_IPAddress_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_WiFi/01._WiFi_IPAddress_print/01._WiFi_IPAddress_print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_WiFi/02._WiFi_simple_web_server/02._WiFi_simple_web_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_WiFi/02._WiFi_simple_web_server/02._WiFi_simple_web_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_WiFi/03._WiFi_web_server_variable_resistance/03._WiFi_web_server_variable_resistance.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_WiFi/03._WiFi_web_server_variable_resistance/03._WiFi_web_server_variable_resistance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_WiFi/04._WiFi_led_control/04._WiFi_led_control.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_WiFi/04._WiFi_led_control/04._WiFi_led_control.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_servo_motor/01._servo_motor/01._servo_motor.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_servo_motor/01._servo_motor/01._servo_motor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_servo_motor/02._servo_motor_timer/02._servo_motor_timer.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_servo_motor/02._servo_motor_timer/02._servo_motor_timer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_servo_motor/03._servo_motor_up_down/03._servo_motor_up_down.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_servo_motor/03._servo_motor_up_down/03._servo_motor_up_down.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_servo_motor/04._servo_motor_control/04._servo_motor_control.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_servo_motor/04._servo_motor_control/04._servo_motor_control.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_servo_motor/05._servo_motor_variable_sensor/05._servo_motor_variable_sensor.py" beforeDir="false" afterPath="$PROJECT_DIR$/21_servo_motor/05._servo_motor_variable_sensor/05._servo_motor_variable_sensor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_ultrasonic/01._ultrasonic_sensor/01._ultrasonic_sensor.py" beforeDir="false" afterPath="$PROJECT_DIR$/22_ultrasonic/01._ultrasonic_sensor/01._ultrasonic_sensor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22_ultrasonic/02._ultrasonic_sensor_led_control/02._ultrasonic_sensor_led.py" beforeDir="false" afterPath="$PROJECT_DIR$/22_ultrasonic/02._ultrasonic_sensor_led_control/02._ultrasonic_sensor_led.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_oled/01._oled/01._oled_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/23_oled/01._oled/01._oled_print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_oled/02._oled_button_print/02._oled_button_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/23_oled/02._oled_button_print/02._oled_button_print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23_oled/03._oled_photoresistor_sensor_result/03._oled_photoresistor_sensor_result.py" beforeDir="false" afterPath="$PROJECT_DIR$/23_oled/03._oled_photoresistor_sensor_result/03._oled_photoresistor_sensor_result.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24_buzzer/01._buzzer/01._buzzer.py" beforeDir="false" afterPath="$PROJECT_DIR$/24_buzzer/01._buzzer/01._buzzer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25_touch/01._touch_sensor/01._touch_sensor.py" beforeDir="false" afterPath="$PROJECT_DIR$/25_touch/01._touch_sensor/01._touch_sensor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25_touch/02._touch_sensor_led/02._touch_sensor_led.py" beforeDir="false" afterPath="$PROJECT_DIR$/25_touch/02._touch_sensor_led/02._touch_sensor_led.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_force_sensitive_resister/01._force_sensitive_resister/01._force_sensitive_resister.py" beforeDir="false" afterPath="$PROJECT_DIR$/26_force_sensitive_resister/01._force_sensitive_resister/01._force_sensitive_resister.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26_force_sensitive_resister/02._force_sensitive_resister_led/02._force_sensitive_resister_led.py" beforeDir="false" afterPath="$PROJECT_DIR$/26_force_sensitive_resister/02._force_sensitive_resister_led/02._force_sensitive_resister_led.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/51_ultrasonic+servo_motor/ultrasonic_servo_motor/ultrasonic_servo_motor.py" beforeDir="false" afterPath="$PROJECT_DIR$/51_ultrasonic+servo_motor/ultrasonic_servo_motor/ultrasonic_servo_motor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/52_ultrasonic+buzzer/ultrasonic_buzzer/ultrasonic_buzzer.py" beforeDir="false" afterPath="$PROJECT_DIR$/52_ultrasonic+buzzer/ultrasonic_buzzer/ultrasonic_buzzer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/53_ultrasonic+oled/ultrasonic_oled/ultrasonic_oled.py" beforeDir="false" afterPath="$PROJECT_DIR$/53_ultrasonic+oled/ultrasonic_oled/ultrasonic_oled.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/55_touch_sensor+oled/touch_sensor_oled/touch_sensor_oled.py" beforeDir="false" afterPath="$PROJECT_DIR$/55_touch_sensor+oled/touch_sensor_oled/touch_sensor_oled.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="22zBsxPFOOWVmShKkO0SJ039nq1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31dcac9b-17fe-4d81-aab3-8307dee51d19" name="Changes" comment="" />
+      <created>1640830746617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640830746617</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 01._photoresistor_sensoer
-# * Description  : 조도센서 값 쉘에 출력
-# * Author       : 이승찬
-# * Created Date : 2021.08.18
-# * Reference    :
-# * Modified     :
+# FileName     : 01._photoresistor_sensoer
+# Description  : 조도센서 값 쉘에 출력
+# Author       : 이승찬
+# Created Date : 2021.08.18
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 

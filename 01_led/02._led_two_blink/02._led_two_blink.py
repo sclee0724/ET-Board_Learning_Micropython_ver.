@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 02._led_two_blink
-# * Description  : 빨간 노랑 LED 를 2회 켜고 끄는 예제
-# * Author       : 이승찬
-# * Created Date : 2021.08.13
-# * Reference    :
-# * Modified     :
+# FileName     : 02._led_two_blink
+# Description  : 빨간 노랑 LED 를 2회 켜고 끄는 예제
+# Author       : 이승찬
+# Created Date : 2021.08.13
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 

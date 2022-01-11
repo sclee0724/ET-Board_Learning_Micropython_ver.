@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 02._oled_button_print
-# * Description  : 버튼을 누르면 oled 모듈에 누른 버튼 색상 출력
-# * Author       : 이승찬
-# * Created Date : 2021.08.18
-# * Reference    :
-# * Modified     :
+# FileName     : 02._oled_button_print
+# Description  : 버튼을 누르면 oled 모듈에 누른 버튼 색상 출력
+# Author       : 이승찬
+# Created Date : 2021.08.18
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 

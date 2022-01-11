@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 01._temperature_sensor
-# * Description  : 온도 센서 값 쉘에 출력
-# * Author       : 이승찬
-# * Created Date : 2021.08.17
-# * Reference    :
-# * Modified     :
+# FileName     : 01._temperature_sensor
+# Description  : 온도 센서 값 쉘에 출력
+# Author       : 이승찬
+# Created Date : 2021.08.17
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 

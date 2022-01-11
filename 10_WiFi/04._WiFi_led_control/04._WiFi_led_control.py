@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : 04._WiFi_led_control
-# * Description  : html 페이지에서 버튼을 누르면 LED 를 켜고 끌 수 있는 예제
-# * Author       : 위대원
-# * Created Date : 2021.08.24
-# * Reference    :
-# * modified     :
+# FileName     : 04._WiFi_led_control
+# Description  : html 페이지에서 버튼을 누르면 LED 를 켜고 끌 수 있는 예제
+# Author       : 위대원
+# Created Date : 2021.08.24
+# Reference    :
+# modified     :
 # ******************************************************************************************
 
 

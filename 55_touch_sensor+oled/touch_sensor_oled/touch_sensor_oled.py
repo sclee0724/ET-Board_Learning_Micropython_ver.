@@ -1,10 +1,10 @@
 # ******************************************************************************************
-# * FileName     : touch_sensor_oled
-# * Description  : 터치센서에 터치시 OLED 에 "touch" 출력
-# * Author       : 이승찬
-# * Created Date : 2021.08.18
-# * Reference    :
-# * Modified     :
+# FileName     : touch_sensor_oled
+# Description  : 터치센서에 터치시 OLED 에 "touch" 출력
+# Author       : 이승찬
+# Created Date : 2021.08.18
+# Reference    :
+# Modified     :
 # ******************************************************************************************
 
 
