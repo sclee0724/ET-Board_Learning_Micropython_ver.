@@ -78,7 +78,7 @@ void OLED_U8G2::display()
   u8g2.print(lineString[2]);
   
   // Display
-  u8g2.sendBuffer();					// transfer internal memory to the display
+  u8g2.sendBuffer();		// transfer internal memory to the display
 }
  
 //=================================================================================

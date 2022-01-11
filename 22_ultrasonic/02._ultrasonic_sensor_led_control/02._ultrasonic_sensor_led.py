@@ -16,8 +16,8 @@ from ETboard.lib.pin_define import *
 
 
 # global variable
-trigPin = Pin(D9)           # 초음파 송신부
-echoPin = Pin(D8)           # 초음파 수신부
+trigPin = Pin(D9)                                   # 초음파 송신부
+echoPin = Pin(D8)                                   # 초음파 수신부
 
 Pin2 = Pin(D2)
 Pin4 = Pin(D4)
