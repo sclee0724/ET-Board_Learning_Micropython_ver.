@@ -10,7 +10,7 @@
 
 
 # import
-import time
+import tim
 from machine import Pin, time_pulse_us
 from ETboard.lib.pin_define import *
 
