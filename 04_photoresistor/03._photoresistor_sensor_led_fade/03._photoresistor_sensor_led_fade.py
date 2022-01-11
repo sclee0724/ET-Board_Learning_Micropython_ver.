@@ -32,7 +32,7 @@ def loop():
     
     pwm2 = PWM(Pin(D2), 500, int(sensor_result))
 
-    time.sleep(0.1)                               # 0.1초 기다리기
+    time.sleep(0.1)                               # 0.1초 기다리기 
 
 
 if __name__ == "__main__":
