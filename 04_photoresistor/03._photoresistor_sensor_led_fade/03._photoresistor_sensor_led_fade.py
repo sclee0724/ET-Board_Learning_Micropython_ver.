@@ -17,7 +17,7 @@ from ETboard.lib.pin_define import *
 
 # global variable
 sensor = ADC(Pin(A1))                             # 조도센서 핀 지정
-
+PinD2 = Pin(D2)                                   # 빨강 LED 핀 지정
 
 # setup
 def setup():
