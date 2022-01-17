@@ -20,7 +20,8 @@ sensor = ADC(Pin(A0))                 # 가변저항 핀 지정
 
 # setup
 def setup():
-    sensor.atten(ADC.ATTN_11DB)       # 가변저항 입력 모드 설정
+        
+    sensor.atten(ADC.ATTN_6DB)       # 가변저항 입력 모드 설정
 
 
 # main loop
